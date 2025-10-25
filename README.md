@@ -28,7 +28,7 @@ There is a need for a simple, real-time warning system to ensure safe and inform
 * Reduces border violations
   
 📂 Project Files
-Proof of Concept:
+Proof of Concept: [View_POC:](./Kowshin_POC_for_Fisherman_safety.pdf)
 
 🚀 Future Enhancements
 * Mobile app with sea map view
@@ -38,6 +38,5 @@ Proof of Concept:
 
 🙋‍♂️ Author
 Kowshin.V;
-Student of ECE.
-Electronics & Communication Engineering
-Passionate about IoT and Embedded Systems
+Electronics & Communication Engineering;
+Passionate about IoT and Embedded Systems.
