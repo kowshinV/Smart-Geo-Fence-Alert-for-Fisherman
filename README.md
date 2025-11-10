@@ -29,7 +29,7 @@ There is a need for a simple, real-time warning system to ensure safe and inform
   
 📂 Project Files
 Proof of Concept: [View_POC:](./Kowshin_POC_for_Fisherman_safety.pdf)
-
+Block Diagram: [View BD:](./SGFA.jpg.png)
 🚀 Future Enhancements
 * Mobile app with sea map view
 * Long-range wireless boost
