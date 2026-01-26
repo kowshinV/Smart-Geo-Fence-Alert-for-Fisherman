@@ -50,7 +50,7 @@ There is a need for a simple, real-time warning system to ensure safe and inform
 
 ---
 
-🙋‍♂️ Author
+ Author
 Kowshin.V;
 Electronics & Communication Engineering;
 Passionate about IoT and Embedded Systems.
